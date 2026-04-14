@@ -5,7 +5,7 @@ This module serves as the command-line interface for the Log Analyser applicatio
 It handles argument parsing, orchestrates the log parsing and formatting workflow,
 and manages output presentation to the user.
 
-Author: Log Analyser Team
+Author: Siddhart Meena
 Date: 2026
 """
 
